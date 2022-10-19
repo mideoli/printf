@@ -30,7 +30,13 @@ Handle the following conversion specifiers:
 	* You don’t have to handle precision
 	* You don’t have to handle the length modifiers.
 
-Authors
+## Authors
 
-* Miguel Oliveira
-* Olimpio Mugindene (@rnrnshn)
+* Miguel Oliveira <[mideoli](https://github.com/mideoli)>
+* Olimpio Mugindene <[rnrnshn](https://github.com/rnrnshn)>
+
+## Acknowledgements
+
+The `_printf` function emulates functionality of the C standard library
+function `printf`. This README borrows from the Linux man page
+[printf(3)](https://linux.die.net/man/3/printf).
